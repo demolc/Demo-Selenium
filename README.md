@@ -1,4 +1,4 @@
-# Sccript de démonstration pour un brève introduction à Selenium
+# Scripts de démonstration pour un brève introduction à Selenium
 
 Langage : Python
 Installation ```pip install selenium ```
